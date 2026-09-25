@@ -4,11 +4,7 @@ Vue3、TypeScript和Vite基础项目，当前仅有页面入口，业务功能�
 
 ## 本地运行
 
-使用WSL已安装的Node.js22.19.0。若当前终端未配置Node.js，请执行：
-
-```bash
-export PATH=/home/hj/.local/opt/node/bin:$PATH
-```
+使用WSL已安装的Node.js22.19.0，node和npm已能直接调用。
 
 项目依赖已安装，精确版本见package-lock.json。
 
